@@ -1,12 +1,12 @@
 [submodule "gd4h-api"]
 	path = gd4h-api
-	url = https://gitlab-forge.din.developpement-durable.gouv.fr/cgdd/sri/ecolab/gd4h-api.git
+	url = https://github.com/c24b/gd4h-api.git
 [submodule "gd4h-front"]
 	path = gd4h-front
-	url = https://gitlab-forge.din.developpement-durable.gouv.fr/cgdd/sri/ecolab/gd4h-front.git
+	url = https://github.com/c24b/gd4h-front.git
 [submodule "gd4h-scripts"]
 	path = gd4h-scripts
-	url = https://gitlab-forge.din.developpement-durable.gouv.fr/cgdd/sri/ecolab/gd4h-scripts.git
+	url = https://github.com/c24b/gd4h-api.git/gd4h-scripts.git
 [submodule "gd4h-data"]
 	path = gd4h-data
-	url = https://gitlab-forge.din.developpement-durable.gouv.fr/cgdd/sri/ecolab/gd4h-data.git
+	url = https://github.com/c24b/gd4h-api.git/gd4h-data.git
