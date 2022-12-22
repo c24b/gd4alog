@@ -6,7 +6,7 @@
 	url = https://github.com/c24b/gd4h-front.git
 [submodule "gd4h-scripts"]
 	path = gd4h-scripts
-	url = https://github.com/c24b/gd4h-api.git/gd4h-scripts.git
+	url = https://github.com/c24b/gd4h-scripts.git
 [submodule "gd4h-data"]
 	path = gd4h-data
-	url = https://github.com/c24b/gd4h-api.git/gd4h-data.git
+	url = https://github.com/c24b/gd4h-data.git
